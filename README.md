@@ -2,6 +2,10 @@
 
 A simple example of how to use wide-smile with React.
 
+## Getting Started
+
+Clone this repository and run `yarn add package.json`
+
 ## Available Scripts
 
 In the project directory, you can run:
